@@ -369,11 +369,12 @@ a {
     margin-bottom: 2rem;
 }
 
-
+.plan--popular {
+    transform: scale(1.1);
+}
 
 .plan--popular .card__header {
     position: relative;
-
 }
 
 .plan--popular .card__header::before {
